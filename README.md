@@ -54,12 +54,14 @@ Currently focused on becoming a strong backend/fullstack developer.
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-user&theme=dark"/>
 </p>
+
+-->
 
 ## 📬 Contact
 
